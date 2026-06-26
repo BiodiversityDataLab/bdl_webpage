@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Biodiversity Data Lab graphic">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#6cc06f"/><stop offset="0.55" stop-color="#0c7a58"/><stop offset="1" stop-color="#063f33"/></linearGradient>
+    <radialGradient id="r" cx="35%" cy="30%" r="70%"><stop offset="0" stop-color="#e7f8e9"/><stop offset="0.45" stop-color="#81c97e"/><stop offset="1" stop-color="#075e49"/></radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#063f33" flood-opacity=".28"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="#f1fbef"/>
+  <rect width="1200" height="800" fill="url(#r)" opacity=".85"/>
+  <rect width="1200" height="800" fill="url(#g)"/><circle cx="600" cy="315" r="135" fill="#eaffed" opacity=".86"/><path d="M305 760 C345 565 455 475 600 475 C745 475 855 565 895 760Z" fill="#eaffed" opacity=".86"/><g opacity=".35" stroke="#073f33" stroke-width="10" fill="none"><path d="M230 210 C390 320 430 520 600 610 C770 520 810 320 970 210"/><path d="M600 610 L600 180"/></g>
+</svg>

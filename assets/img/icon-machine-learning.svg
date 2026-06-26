@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title">
+  <title>Machine learning icon</title>
+  <defs>
+    <linearGradient id="g" x1="11" y1="9" x2="108" y2="111" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#93d897"/>
+      <stop offset="1" stop-color="#063f33"/>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="10" width="100" height="100" rx="28" fill="url(#g)"/>
+  <g stroke="#edf9ed" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M34 39h22M34 60h22M34 81h22M65 39h19M65 60h19M65 81h19" stroke-width="3.5" opacity=".78"/>
+    <path d="M56 39 65 60 56 81M56 60l9-21 19 21-19 21 19-42" stroke-width="3" opacity=".55" fill="none"/>
+  </g>
+  <g fill="#fff" stroke="#086147" stroke-width="2.5">
+    <circle cx="34" cy="39" r="7"/><circle cx="34" cy="60" r="7"/><circle cx="34" cy="81" r="7"/>
+    <circle cx="58" cy="39" r="7"/><circle cx="58" cy="60" r="7"/><circle cx="58" cy="81" r="7"/>
+    <circle cx="86" cy="39" r="7"/><circle cx="86" cy="60" r="7"/><circle cx="86" cy="81" r="7"/>
+  </g>
+  <path d="M25 26c3 0 5 2 5 5s-2 5-5 5-5-2-5-5 2-5 5-5Zm70 61c3 0 5 2 5 5s-2 5-5 5-5-2-5-5 2-5 5-5Z" fill="#edf9ed" opacity=".82"/>
+</svg>

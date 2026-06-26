@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Biodiversity Data Lab graphic">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#6cc06f"/><stop offset="0.55" stop-color="#0c7a58"/><stop offset="1" stop-color="#063f33"/></linearGradient>
+    <radialGradient id="r" cx="35%" cy="30%" r="70%"><stop offset="0" stop-color="#e7f8e9"/><stop offset="0.45" stop-color="#81c97e"/><stop offset="1" stop-color="#075e49"/></radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#063f33" flood-opacity=".28"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="#f1fbef"/>
+  <rect width="1200" height="800" fill="url(#r)" opacity=".85"/>
+  <rect width="1200" height="800" fill="url(#r)"/><g transform="translate(420 170)" fill="none" stroke="#eaffed" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"><path d="M180 40 L180 520"/><path d="M180 95 C75 130 60 245 165 310"/><path d="M180 95 C285 130 300 245 195 310"/><path d="M180 310 C95 350 90 475 180 520"/><path d="M180 310 C265 350 270 475 180 520"/><path d="M55 250 L305 250"/><path d="M70 422 L290 422"/></g><text x="70" y="704" font-family="monospace" font-size="26" fill="#eaffed" opacity=".55">Malaise trap · insect biodiversity</text>
+</svg>

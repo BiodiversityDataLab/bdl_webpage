@@ -1,0 +1,844 @@
+{
+  "home": {
+    "eyebrow": "Biodiversity Data Lab | Uppsala University",
+    "title": "Data-driven biodiversity science for a living planet.",
+    "lede": "Develop data-driven methods that provide insights into the distribution and dynamics of biodiversity, through integration of environmental DNA, remote sensing, and machine learning.",
+    "image": "/assets/img/lab-tree-portrait.jpg",
+    "pillars": [
+      {
+        "title": "Environmental DNA",
+        "text": "We are developing and applying genetic methods to detect small traces of DNA that organisms leave behind in their habitat (environmental DNA). This provides us with comprehensive biodiversity measures of the species community at a site, which even includes the large hidden diversity of species that have not yet been scientifically described (the vast majority of species!).",
+        "image": "/assets/img/icon-edna.svg",
+        "tag": "eDNA"
+      },
+      {
+        "title": "Remote sensing",
+        "text": "In our computational models we apply high-resolution geographic data produced by different remote sensing techniques. Some examples are satellite images or 3D-point clouds from airborne laser-scanning. We use these data to correlate biodiversity measures with the complex biotic and abiotic environment. Our aim is to eventually be able to make biodiversity predictions for areas that lack biodiversity data, allowing the generation of biodiversity heat maps.",
+        "image": "/assets/img/icon-remote-sensing.svg",
+        "tag": "Remote sensing"
+      },
+      {
+        "title": "Machine learning",
+        "text": "We are actively working on building state-of-the-art machine learning models to learn the complex associations of species with their environment. These models are capable to detect areas that are of high conservation value and can aid in conservation planning and selecting sites for biodiversity offsets. Further, these methods allow us to simulate the expected response of biodiversity to specific management scenarios or other factors such as climate change.",
+        "image": "/assets/img/icon-machine-learning.svg",
+        "tag": "Machine learning"
+      }
+    ],
+    "mission": "Develop data-driven methods that provide insights into the distribution and dynamics of biodiversity, through integration of environmental DNA, remote sensing, and machine learning.",
+    "definition": "A multidisciplinary field that brings together large-scale, multidimensional data and advanced computational methods to provide new insights about biodiversity.",
+    "who_we_are": "One focus is to improve field- and lab-work protocols to produce more accurate biodiversity assessments using environmental DNA. The other focus of our group is to develop computational methods that utilize these data to help us better understand and manage the spatial distribution of biodiversity. Our research is interdisciplinary, including the fields of ecology, environmental genetics, geomatics, bioinformatics, data science, and machine learning. If you have a background or interest in any of these fields and care about contributing with your work towards helping biodiversity, the Biodiversity Data Lab is the place for you!",
+    "lab_photos": [
+      {
+        "src": "/assets/img/lab-working-session-crop.jpg",
+        "caption": "Collaborative statistical modelling session"
+      },
+      {
+        "src": "/assets/img/lab-tree-portrait.jpg",
+        "caption": "Group photo under a leafy canopy"
+      },
+      {
+        "src": "/assets/img/lab-uppsala-selfie.jpg",
+        "caption": "Research life in Uppsala"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "title": "BIOSCANN - BIOdiversity Segmentation and Classification with Artificial Neural Networks",
+      "meta": "",
+      "text": "BIOSCANN implements a deep-learning segmentation model that integrates multiple layers of environmental data -- satellite images, airborne laser scanning, and soil information -- to identify forests of high biodiversity value in Sweden. With this approach we produce a national data product for Sweden with high-resolution biodiversity predictions.",
+      "paragraphs": [
+        "BIOSCANN implements a deep-learning segmentation model that integrates multiple layers of environmental data -- satellite images, airborne laser scanning, and soil information -- to identify forests of high biodiversity value in Sweden. With this approach we produce a national data product for Sweden with high-resolution biodiversity predictions."
+      ],
+      "links": [
+        {
+          "text": "Interactive data product",
+          "href": "https://gee-hcvf-andermann.projects.earthengine.app/view/hcvf-viewer"
+        },
+        {
+          "text": "GitHub repository",
+          "href": "https://github.com/BiodiversityDataLab/bioscann"
+        },
+        {
+          "text": "Preprint",
+          "href": "https://www.researchsquare.com/article/rs-4734879/v1"
+        }
+      ],
+      "image": "https://static.wixstatic.com/media/d60b39_559ade9124aa4f6d9a683338700a961f~mv2.png/v1/fill/w_571%2Ch_354%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Figure_1.png",
+      "tag": "AI + remote sensing"
+    },
+    {
+      "title": "High-resolution insect diversity predictions from DNA-based monitoring",
+      "meta": "",
+      "text": "We predict the expected insect biodiversity across Sweden at 10-m resolution using models trained on DNA data gathered from Malaise traps. The models integrate biodiversity data with high-resolution environmental layers such as land cover, vegetation structure, hydrology, and climate. This jSDM-eDNA framework delivers scalable, standardized biodiversity monitoring at management-relevant spatial resolution.",
+      "paragraphs": [
+        "We predict the expected insect biodiversity across Sweden at 10-m resolution using models trained on DNA data gathered from Malaise traps. The models integrate biodiversity data with high-resolution environmental layers such as land cover, vegetation structure, hydrology, and climate. This jSDM-eDNA framework delivers scalable, standardized biodiversity monitoring at management-relevant spatial resolution."
+      ],
+      "links": [],
+      "image": "https://static.wixstatic.com/media/d60b39_8a025f343b744f9a8f06ef5e261f7beb~mv2.jpg/v1/crop/x_0%2Cy_0%2Cw_2560%2Ch_1200/fill/w_589%2Ch_268%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/zoomin4%20%281%29_edited.jpg",
+      "tag": "eDNA monitoring"
+    },
+    {
+      "title": "Limits to prediction: Why global biodiversity models fail to generalize",
+      "meta": "",
+      "text": "This project investigates the predictive accuracy of large-scale biodiversity models. Using a global dataset of 25,987 sites from 681 studies, we evaluate linear mixed models and Bayesian hierarchical models for alpha and beta diversity. The models are tested on interpolation and extrapolation capabilities, revealing clear limits to prediction.",
+      "paragraphs": [
+        "This project investigates the predictive accuracy of large-scale biodiversity models. Using a global dataset of 25,987 sites from 681 studies, we evaluate linear mixed models and Bayesian hierarchical models for alpha and beta diversity. The models are tested on interpolation and extrapolation capabilities, revealing clear limits to prediction."
+      ],
+      "links": [],
+      "image": "https://static.wixstatic.com/media/d60b39_6d8687c709cc47c2a740aad70912bb82~mv2.png/v1/fill/w_519%2Ch_546%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/pipeline.png",
+      "tag": "Predictive limits"
+    },
+    {
+      "title": "Environmental Data Downloading Pipeline",
+      "meta": "",
+      "text": "A Python package for automated environmental data retrieval in ecological modelling. The service gives users granular control over data synthesis, allowing efficient download of geospatial information from repositories including Google Earth Engine and downstream predictive modelling applications.",
+      "paragraphs": [
+        "A Python package for automated environmental data retrieval in ecological modelling. The service gives users granular control over data synthesis, allowing efficient download of geospatial information from repositories including Google Earth Engine and downstream predictive modelling applications."
+      ],
+      "links": [],
+      "image": "https://static.wixstatic.com/media/e497f2_06c7863460e548ed835976232888d0f6~mv2.png/v1/crop/x_0%2Cy_45%2Cw_7160%2Ch_5356/fill/w_598%2Ch_447%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Environmental%20Data%20Dowload%20Pipeline.png",
+      "tag": "Open data pipeline"
+    }
+  ],
+  "methods": [
+    {
+      "title": "Insect traps",
+      "paragraphs": [
+        "Insects are one of the most diverse and species-rich taxonomic groups, containing about half of all species that have so far been scientifically described. Insects also act as collectors of environmental DNA, because they feed from plants, fungi, and other organisms in their surroundings.",
+        "By applying Insect Malaise traps, we capture a large portion of the above-ground insect diversity, providing comprehensive DNA samples of insects as well as their gut contents and parasites."
+      ],
+      "links": [],
+      "image": ""
+    },
+    {
+      "title": "Soil sampling",
+      "paragraphs": [
+        "When we think of biodiversity, we often think of charismatic animals and plants, but there is an immense hidden diversity below our feet in the soil. Soil core samplers reaching up to 40 cm below the surface help us access this hidden ecosystem.",
+        "These samples provide a glimpse into fungal, invertebrate, and plant species communities that can be found below the surface."
+      ],
+      "links": [],
+      "image": ""
+    },
+    {
+      "title": "Prescribed Burning",
+      "paragraphs": [
+        "With approximately 13,000 wildfires in Spain each year and more than 100,000 hectares burned annually, wildfire prevention is a critical priority. Prescribed burning is a land-management strategy that removes dead biomass and reduces fuel continuity.",
+        "During a PhD stay in Spain, Monica Guilera Recoder participated in prescribed burns carried out by firefighters. See more fieldwork photographs in the gallery."
+      ],
+      "links": [
+        {
+          "text": "Open gallery",
+          "href": "/gallery/"
+        }
+      ],
+      "image": ""
+    }
+  ],
+  "people": {
+    "current": [
+      {
+        "name": "Tobias Andermann",
+        "role": "Computational Biologist & Group Leader, Assistant Professor",
+        "bio": "I am a biodiversity researcher dedicated to providing data and computational tools for combatting the global biodiversity crisis. I work at the intersection of molecular biology, spatial ecology, and machine learning, with the mission to provide a more comprehensive view on the distribution of biodiversity, including hidden diversity of inconspicuous and undescribed species through environmental DNA.",
+        "email": "tobias.andermann@ebc.uu.se",
+        "image": "https://static.wixstatic.com/media/d60b39_944e2e41ba204801a7ce12c820b63368~mv2.jpg/v1/fill/w_501%2Ch_450%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/_DSC5908_lower_res_edited.jpg"
+      },
+      {
+        "name": "Adrian Baggstrom",
+        "role": "Nature Geographer, PhD student",
+        "bio": "I am a PhD student focusing on biodiversity, geomatics, remote sensing and machine learning. My interest is to research the possibilities of assessing biodiversity through remote sensing techniques such as spectral imagery, lidar and synthetic aperture radar. By combining these techniques with geospatial data and deep learning, I aim to develop tools that contribute to monitoring biodiversity at different scales.",
+        "email": "adrian.baggstrom@ebc.uu.se",
+        "image": "https://static.wixstatic.com/media/f89542_a7ac55346e5945a7ac6246d51ad1b38f~mv2.jpg/v1/crop/x_160%2Cy_25%2Cw_1673%2Ch_1308/fill/w_470%2Ch_368%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/DSC_0184_edited.jpg"
+      },
+      {
+        "name": "Monica Guilera Recoder",
+        "role": "Ecologist, PhD student",
+        "bio": "As an ecologist focused on the study of fungal biodiversity in forest ecosystems, my goal is to discover the unknown and protect the known. My PhD research aims to optimize environmental DNA metabarcoding techniques -- in fieldwork and labwork -- to assess fungal biodiversity more efficiently and study the impact of forestry and other human disturbances on fungal diversity.",
+        "email": "monica.guilera-recoder@ebc.uu.se",
+        "image": "https://static.wixstatic.com/media/135a5f_6fbe2fca792940518cee9fd14c1e43b7~mv2.jpg/v1/crop/x_304%2Cy_237%2Cw_3046%2Ch_2450/fill/w_501%2Ch_403%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/20220817_181903.jpg"
+      },
+      {
+        "name": "Jakob Nystrom",
+        "role": "Data Scientist, PhD student",
+        "bio": "The ultimate goal of my research is to provide policymakers and companies with data and tools to make better decisions for nature and biodiversity. My research focuses on quantifying natural and anthropogenic drivers of biodiversity patterns and developing causal and predictive models for biodiversity and ecosystem integrity across taxonomic and geographical scales.",
+        "email": "jakob.nystrom@ebc.uu.se",
+        "image": "https://static.wixstatic.com/media/d60b39_359097c5ec46489ba38b35fc3ee45454~mv2.jpg/v1/fill/w_470%2Ch_470%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/T04MN5UUWTX-U07UJ4URENA-fb6091b1eb75-512.jpg"
+      },
+      {
+        "name": "Jan Borgelt",
+        "role": "Computational Ecologist, Postdoc",
+        "bio": "My academic background centers on understanding environmental changes across ecosystems, giving me a broad perspective on ecological challenges. I am particularly interested in applying data science and innovative technologies to develop computational methods that address the biodiversity crisis. As part of my research stay at the Biodiversity Data Lab, I am working with eDNA insect data to understand insect taxa and diversity across space.",
+        "email": "jan.borgelt@ntnu.no",
+        "image": "https://static.wixstatic.com/media/d60b39_cc7b0217679243469e0dc599c1f7b82b~mv2.jpg/v1/crop/x_0%2Cy_78%2Cw_594%2Ch_642/fill/w_501%2Ch_541%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/dsc_02571_720.jpg"
+      },
+      {
+        "name": "Vun Wen Jie (VJ)",
+        "role": "Ecologist, Postdoc",
+        "bio": "Biodiversity is integral to the processes that support all life on Earth. My interest is to implement a framework that allows detection and attribution of biodiversity change to drivers, strengthening the bridge between biodiversity science and policy. This postdoc position is a collaboration with the Department for Information Technology and the Biodiversity Data Lab.",
+        "email": "vun.wen.jie@it.uu.se",
+        "image": "https://static.wixstatic.com/media/d60b39_6b19645b08b0434aa6947ca4d567416f~mv2.jpg/v1/crop/x_0%2Cy_80%2Cw_877%2Ch_764/fill/w_470%2Ch_409%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/1000000264_edited.jpg"
+      },
+      {
+        "name": "Mahwash Jamy",
+        "role": "Evolutionary Biologist, Researcher",
+        "bio": "I am a postdoctoral researcher fascinated by the extraordinary diversity of microbes and the evolutionary processes that shaped it. My work focuses on leveraging environmental sequencing within phylogenetic frameworks to investigate the diversity, ecology, and evolution of microbial eukaryotes.",
+        "email": "mahwash.jamy@ebc.uu.se",
+        "image": "https://static.wixstatic.com/media/d60b39_cfc3a1b98a914967885c33001cf7eede~mv2.png/v1/fill/w_501%2Ch_450%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202025-11-05%20at%2013_49_41.png"
+      },
+      {
+        "name": "Bianca Sarcani",
+        "role": "Bioinformatician, Master student",
+        "bio": "I am a master student in Bioinformatics at Uppsala University. I am passionate about biodiversity, especially researching ways it can be accurately analysed and quantified using computational tools. I am developing an eDNA annotation pipeline to help identify fungal species in soil samples.",
+        "email": "biancasarcani@gmail.com",
+        "image": "https://static.wixstatic.com/media/d60b39_9a168cf3979c4fa2a7e43e7295bf4f92~mv2.png/v1/crop/x_0%2Cy_164%2Cw_1680%2Ch_1476/fill/w_470%2Ch_413%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202025-11-05%20at%2013_50_24.png"
+      },
+      {
+        "name": "Linus Lassen",
+        "role": "Molecular Biologist, Master student",
+        "bio": "I am a master student in Applied Biotechnology, fascinated by the planet's biodiversity. My thesis focuses on enhancing eDNA workflows to make biodiversity monitoring faster, more inclusive, and accessible. I am exploring portable sequencing with a single barcode marker to detect insects, protists, fungi, and plants from a single sample.",
+        "email": "linuslassen@outlook.de",
+        "image": "https://static.wixstatic.com/media/e497f2_e93a3a70bfa14cb0aadac2f94638ed92~mv2.jpg/v1/fill/w_501%2Ch_450%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/20251114_125643_Ausschnitt.jpg"
+      },
+      {
+        "name": "Caleb Caulk",
+        "role": "Data Scientist, Master student",
+        "bio": "I am a master student in Data Science at Uppsala University. My thesis focuses on developing a pipeline that allows researchers to compare statistical and machine learning models on biodiversity predictions while allowing different configurations for intensive testing.",
+        "email": "caleb-floyd.caulk.5143@student.uu.se",
+        "image": "https://static.wixstatic.com/media/e497f2_c20f5db506714e6592d6aae25a499885~mv2.png/v1/crop/x_0%2Cy_113%2Cw_1720%2Ch_1333/fill/w_470%2Ch_364%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Caleb.png"
+      }
+    ],
+    "previous": [
+      {
+        "name": "Britt Andermann",
+        "role": "Research Librarian",
+        "bio": "I am a research librarian with a vested interest in the role natural history museum archives play in providing source material and biodiversity data for scientific research. I focus on highlighting archives as valuable entities from which to mobilize occurrence and taxonomic biodiversity data.",
+        "email": "britt.andermann@em.uu.se",
+        "image": "https://static.wixstatic.com/media/d60b39_1f8c0031d2c14f2991df906fe54f0d61~mv2.jpg/v1/crop/x_0%2Cy_319%2Cw_1087%2Ch_894/fill/w_501%2Ch_412%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/20251014091359.jpg"
+      },
+      {
+        "name": "Jiacheng Ling",
+        "role": "Biogeographer, Master student",
+        "bio": "I am an ecologist specializing in biodiversity and species distribution modeling. My interest focuses on geodiversity, spatial heterogeneity, and how it can help explain biodiversity patterns across habitats and taxa at local scales.",
+        "email": "jiacheng.ling.3450@student.uu.se",
+        "image": "https://static.wixstatic.com/media/d60b39_39101047dd1541e9947d2e4f96bac967~mv2.jpg/v1/crop/x_0%2Cy_565%2Cw_1737%2Ch_1899/fill/w_470%2Ch_514%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Weixin%20Image_20250226162802.jpg"
+      },
+      {
+        "name": "Beilun Zhao",
+        "role": "Environmental Biologist, Postdoc",
+        "bio": "As an environmental biological researcher, my primary objective is to expand our understanding of spatial and temporal biodiversity to contribute to natural conservation efforts. My research focuses on the correlation between species ecological niches and environmental DNA across ecosystems.",
+        "email": "beilun.zhao@ebc.uu.se",
+        "image": "https://static.wixstatic.com/media/d60b39_c4b01c9730af4f00811909737a2aeb7c~mv2.jpg/v1/fill/w_501%2Ch_450%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/IMG_5666_edited.jpg"
+      },
+      {
+        "name": "Filipe Almeida",
+        "role": "Evolutionary Biologist, Master student",
+        "bio": "I am a master student in the Erasmus Mundus Programme in Evolutionary Biology. My research interests lie in applying and developing computational methods for biodiversity conservation. I focus on predicting conservation status of fungal species in Sweden using machine learning.",
+        "email": "filipegmsalmeida@gmail.com",
+        "image": "https://static.wixstatic.com/media/d60b39_b6bd36153601497298c0420c22ee661b~mv2.jpeg/v1/crop/x_0%2Cy_312%2Cw_1397%2Ch_1178/fill/w_470%2Ch_396%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Photo_Filipe.jpeg"
+      },
+      {
+        "name": "Alice Satre",
+        "role": "Environmental biologist, Intern",
+        "bio": "I am a master student in life and environmental science. My interests are focused on forestry, ecology and biodiversity conservation. I joined the Biodiversity Data Lab as an intern to learn how to better understand and protect biodiversity.",
+        "email": "",
+        "image": "https://static.wixstatic.com/media/d60b39_fdc9fa3513af4447ae336542b2292a3f~mv2.jpg/v1/crop/x_0%2Cy_232%2Cw_1280%2Ch_766/fill/w_501%2Ch_300%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/alice_edited.jpg"
+      },
+      {
+        "name": "Shuangshuang Wang",
+        "role": "Forensic microbiologist, PhD student",
+        "bio": "As a forensic microbiological researcher, I work on the human microbiome and human DNA. Through this exchange opportunity, I explored environmental microbiology and environmental DNA to study distribution patterns of fungi in forests.",
+        "email": "shuangshuang.wang@ebc.uu.se",
+        "image": "https://static.wixstatic.com/media/d60b39_08e082a669eb47fca05f17b23c536804~mv2.jpg/v1/crop/x_0%2Cy_656%2Cw_1280%2Ch_1078/fill/w_470%2Ch_396%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/photo.jpg"
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Schools engaged in forest biodiversity study",
+      "meta": "March 18th, 2026",
+      "text": "How does biodiversity differ between natural forests and production forests? Researchers Tobias Andermann and Mahwash Jamy from the Biodiversity Data Lab are seeking to find out with the help of school pupils throughout Sweden. The pupils will collect soil samples for analysis and sequencing at SciLifeLab.",
+      "paragraphs": [
+        "How does biodiversity differ between natural forests and production forests? Researchers Tobias Andermann and Mahwash Jamy from the Biodiversity Data Lab are seeking to find out with the help of school pupils throughout Sweden. The pupils will collect soil samples for analysis and sequencing at SciLifeLab."
+      ],
+      "links": [
+        {
+          "text": "Find out more",
+          "href": "https://www.uu.se/en/news/2026/2026-03-18-schools-engaged-in-forest-biodiversity-study"
+        }
+      ],
+      "image": "https://static.wixstatic.com/media/e497f2_f3871fefada04b218208ec567012b8da~mv2.jpg/v1/fill/w_294%2Ch_262%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Forskarhj%C3%A4lpen_edited.jpg"
+    },
+    {
+      "title": "MostFUN & GEOBON Seminar",
+      "meta": "March 4th, 2026",
+      "text": "Tobias Andermann was invited to speak at an online seminar for the Biodiversa+ project MoSTFun on predictive biodiversity modelling, highlighting the integration of species data, eDNA, and high-resolution remote sensing.",
+      "paragraphs": [
+        "Tobias Andermann was invited to speak at an online seminar for the Biodiversa+ project MoSTFun on predictive biodiversity modelling, highlighting the integration of species data, eDNA, and high-resolution remote sensing."
+      ],
+      "links": [
+        {
+          "text": "Find out more",
+          "href": "https://www.youtube.com/watch?v=8AQRRdA2YUU"
+        }
+      ],
+      "image": "https://static.wixstatic.com/media/e497f2_ba4e1eddef8c408e9856b4137852cf21~mv2.jpg/v1/fill/w_294%2Ch_262%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202026-03-19%20182138_edited.jpg"
+    },
+    {
+      "title": "Environmental Scholarship Award for Master Student",
+      "meta": "January 16th, 2026",
+      "text": "Master student Linus Lassen from the Biodiversity Data Lab was awarded an Environmental Scholarship from Sveriges Ingenjorer for a degree project on optimizing eDNA detection methods.",
+      "paragraphs": [
+        "Master student Linus Lassen from the Biodiversity Data Lab was awarded an Environmental Scholarship from Sveriges Ingenjorer for a degree project on optimizing eDNA detection methods."
+      ],
+      "links": [
+        {
+          "text": "Find out more",
+          "href": "https://www.uu.se/en/news/2026/2026-01-16-launch-of-scholarships-for-degree-projects-with-environmental-focus"
+        }
+      ],
+      "image": "https://static.wixstatic.com/media/e497f2_add04d3eaa724706a128e15030b7bb4f~mv2.jpg/v1/fill/w_294%2Ch_262%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Linus%20Scholarship.jpg"
+    },
+    {
+      "title": "Interview with Sveriges Radio on AI in biodiversity research",
+      "meta": "January 7th, 2025",
+      "text": "An interview with Sveriges Radio on the role of AI in biodiversity research.",
+      "paragraphs": [
+        "An interview with Sveriges Radio on the role of AI in biodiversity research."
+      ],
+      "links": [
+        {
+          "text": "Find out more",
+          "href": "https://www.sverigesradio.se/avsnitt/nu-utvecklas-framtidens-ai-verktyg-som-ska-skydda-naturen"
+        }
+      ],
+      "image": "https://static.wixstatic.com/media/d60b39_4f608fe2e3d749dda1a196bb114edd68~mv2.webp/v1/fill/w_294%2Ch_262%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/11a87b74-e95d-4903-a7d2-8f8e3af8df76_jpg.webp"
+    },
+    {
+      "title": "Business and biodiversity workshop at Ekenas Herrgard",
+      "meta": "December 5th-6th, 2024",
+      "text": "We carried out a workshop on Emerging Methods for Business & Biodiversity, bringing together experts from academia, museums, nature tech, the private sector, and public agencies.",
+      "paragraphs": [
+        "We carried out a workshop on Emerging Methods for Business & Biodiversity, bringing together experts from academia, museums, nature tech, the private sector, and public agencies."
+      ],
+      "links": [
+        {
+          "text": "Find out more",
+          "href": "https://ecoevorxiv.org/repository/view/8492/"
+        }
+      ],
+      "image": "https://static.wixstatic.com/media/d60b39_de5473d2361c4fa2abfd952ab02e0c53~mv2.jpeg/v1/fill/w_294%2Ch_262%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/IMG_8590.jpeg"
+    },
+    {
+      "title": "Discussing the global biodiversity crisis on TV panel at TRT World News",
+      "meta": "June 17th, 2024",
+      "text": "A panel discussion about the ongoing biodiversity crisis and how to move towards a biodiversity-positive future.",
+      "paragraphs": [
+        "A panel discussion about the ongoing biodiversity crisis and how to move towards a biodiversity-positive future."
+      ],
+      "links": [],
+      "image": "https://static.wixstatic.com/media/d60b39_530507f9a96446e69a0f0a6fe39ef153~mv2.png/v1/fill/w_294%2Ch_262%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202024-06-27%20at%2010_43_25.png"
+    },
+    {
+      "title": "Public seminar on spatial biodiversity modeling for RISE",
+      "meta": "April 18th, 2024",
+      "text": "A one-hour public seminar presenting recent advances in spatial biodiversity modeling and deep learning models for detecting high-conservation-value forests in Sweden.",
+      "paragraphs": [
+        "A one-hour public seminar presenting recent advances in spatial biodiversity modeling and deep learning models for detecting high-conservation-value forests in Sweden."
+      ],
+      "links": [],
+      "image": "https://static.wixstatic.com/media/d60b39_1fc3b90c09c4441fa4336a2b35373739~mv2.png/v1/fill/w_294%2Ch_262%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202024-09-17%20at%2010_10_44.png"
+    },
+    {
+      "title": "Uppsala University News covers our study on global bird extinctions",
+      "meta": "December 27th, 2023",
+      "text": "The study estimates the number of recent bird extinctions, including those unnoticed due to a lack of data or research effort.",
+      "paragraphs": [
+        "The study estimates the number of recent bird extinctions, including those unnoticed due to a lack of data or research effort."
+      ],
+      "links": [
+        {
+          "text": "Find out more",
+          "href": "https://www.uu.se/en/news/2023/2023-12-27-human-driven-extinction-of-birds-much-greater-than-previously-known"
+        }
+      ],
+      "image": "https://static.wixstatic.com/media/d60b39_7f2b2a69a66f4a008615d5a81bdbe31c~mv2.png/v1/fill/w_294%2Ch_262%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202024-01-11%20at%2015_17_01.png"
+    },
+    {
+      "title": "Benzelius prize for natural science and medicine awarded to Tobias Andermann",
+      "meta": "August 29th, 2023",
+      "text": "The Benzelius prize in the category natural science and medicine was awarded to Tobias Andermann for research on biodiversity using interdisciplinary methods.",
+      "paragraphs": [
+        "The Benzelius prize in the category natural science and medicine was awarded to Tobias Andermann for research on biodiversity using interdisciplinary methods."
+      ],
+      "links": [],
+      "image": "https://static.wixstatic.com/media/d60b39_eab8eb046ddd4fa6bb9361039d9afcd2~mv2.png/v1/fill/w_294%2Ch_262%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202023-09-05%20at%2014_47_39.png"
+    },
+    {
+      "title": "Researcher profile Tobias Andermann - Uppsala University interview series",
+      "meta": "March 31st, 2023",
+      "text": "In this interview, Tobias Andermann talks about his research, the biodiversity crisis, and how computers and big data can help provide new insights into nature.",
+      "paragraphs": [
+        "In this interview, Tobias Andermann talks about his research, the biodiversity crisis, and how computers and big data can help provide new insights into nature."
+      ],
+      "links": [],
+      "image": "https://static.wixstatic.com/media/d60b39_68b5a8f4b2d54e5b924dd4e9e1b196f6~mv2.jpg/v1/fill/w_294%2Ch_262%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/c_1057520-l_3-k_andermann_edited.jpg"
+    },
+    {
+      "title": "News coverage of our twin articles on Madagascar's biodiversity",
+      "meta": "December 2nd, 2022",
+      "text": "Two review articles on the state of Madagascar's biodiversity, published in Science, synthesize available data on biodiversity distribution and extinction threats.",
+      "paragraphs": [
+        "Two review articles on the state of Madagascar's biodiversity, published in Science, synthesize available data on biodiversity distribution and extinction threats."
+      ],
+      "links": [
+        {
+          "text": "Find out more",
+          "href": "https://www.uu.se/en/news/2022/2022-12-02-scientists-madagascars-unique-biodiversity-in-grave-danger?id=19954&typ=artikel"
+        }
+      ],
+      "image": "https://static.wixstatic.com/media/d60b39_d25980b2b8f24af1a628ac584e144684~mv2.jpg/v1/fill/w_294%2Ch_262%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/PB157260_JPG.jpg"
+    },
+    {
+      "title": "Bayesian deep learning model finds clues about the evolution of open habitats",
+      "meta": "October 6th, 2022",
+      "text": "A Bayesian Neural Network approach published in Nature Communications was featured in the SciLifeLab Data Highlights.",
+      "paragraphs": [
+        "A Bayesian Neural Network approach published in Nature Communications was featured in the SciLifeLab Data Highlights."
+      ],
+      "links": [
+        {
+          "text": "Find out more",
+          "href": "https://data.scilifelab.se/highlights/bayesian_open_habitat/"
+        }
+      ],
+      "image": "https://static.wixstatic.com/media/d60b39_9ebd5daaf96a4d9ab8b2894794612ab9~mv2.gif"
+    },
+    {
+      "title": "Our recent study in the spotlight: Estimating alpha, beta, and gamma diversity through deep learning",
+      "meta": "June 21st, 2022",
+      "text": "The AI-based biodiversity prediction approach from a recent publication was featured as a Data Highlight by SciLifeLab.",
+      "paragraphs": [
+        "The AI-based biodiversity prediction approach from a recent publication was featured as a Data Highlight by SciLifeLab."
+      ],
+      "links": [
+        {
+          "text": "Find out more",
+          "href": "https://data.scilifelab.se/highlights/deep_learning_framework_estimate_biodiversity/"
+        }
+      ],
+      "image": "https://static.wixstatic.com/media/d60b39_de343f95edb34179a79dbc0bd0cd941a~mv2.png/v1/crop/x_227%2Cy_0%2Cw_2324%2Ch_2083/fill/w_294%2Ch_262%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Figure_workflow.png"
+    },
+    {
+      "title": "Tobias Andermann appointed as new DDLS fellow - Q&A interview",
+      "meta": "June 16th, 2022",
+      "text": "A Q&A style news article about Tobias Andermann's research background, future aims, and role within the DDLS network.",
+      "paragraphs": [
+        "A Q&A style news article about Tobias Andermann's research background, future aims, and role within the DDLS network."
+      ],
+      "links": [
+        {
+          "text": "Find out more",
+          "href": "https://www.scilifelab.se/news/new-ddls-fellow-tobias-andermann/"
+        }
+      ],
+      "image": "https://static.wixstatic.com/media/d60b39_1bb9f11ec57c4735afe3db572cc8f9da~mv2.jpeg/v1/crop/x_414%2Cy_0%2Cw_965%2Ch_864/fill/w_294%2Ch_262%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/ddls_fellow_image.jpeg"
+    },
+    {
+      "title": "Tobias Andermann awarded prize by H.M. King Carl XVI Gustaf",
+      "meta": "June 12th, 2022",
+      "text": "The Royal Academy of Forestry and Agriculture awarded Tobias a prize for his recently defended PhD thesis.",
+      "paragraphs": [
+        "The Royal Academy of Forestry and Agriculture awarded Tobias a prize for his recently defended PhD thesis."
+      ],
+      "links": [
+        {
+          "text": "Find out more",
+          "href": "https://www.ksla.se/aktiviteter/hogtidssammankomsten-2022-commemorative-meeting-2022/"
+        }
+      ],
+      "image": "https://static.wixstatic.com/media/d60b39_23dc0132db1740d38cc85ba95b1edc27~mv2.jpeg/v1/crop/x_328%2Cy_0%2Cw_1904%2Ch_1707/fill/w_294%2Ch_262%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Tobias-Andermann-Doktorsarbete-ERC_8005-scaled.jpeg"
+    },
+    {
+      "title": "Tobias Andermann presents as keynote speaker at DDLS Research area conference",
+      "meta": "March 22nd, 2022",
+      "text": "Watch the recorded talk outlining the research vision for the Biodiversity Data Lab and a summary of previous research.",
+      "paragraphs": [
+        "Watch the recorded talk outlining the research vision for the Biodiversity Data Lab and a summary of previous research."
+      ],
+      "links": [
+        {
+          "text": "Find out more",
+          "href": "https://www.youtube.com/watch?v=Wub3zOfr1Gw"
+        }
+      ],
+      "image": "https://static.wixstatic.com/media/d60b39_1bb9f11ec57c4735afe3db572cc8f9da~mv2.jpeg/v1/crop/x_414%2Cy_0%2Cw_965%2Ch_864/fill/w_294%2Ch_262%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/ddls_fellow_image.jpeg"
+    },
+    {
+      "title": "Faculty of Science awards Tobias Andermann's PhD thesis research",
+      "meta": "December 2nd, 2021",
+      "text": "The Faculty of Science at the University of Gothenburg awarded the annual research prize for the best doctoral thesis in 2021 to Tobias Andermann.",
+      "paragraphs": [
+        "The Faculty of Science at the University of Gothenburg awarded the annual research prize for the best doctoral thesis in 2021 to Tobias Andermann."
+      ],
+      "links": [
+        {
+          "text": "Find out more",
+          "href": "https://www.gu.se/en/news/doctoral-thesis-award-to-tobias-andermann"
+        }
+      ],
+      "image": "https://static.wixstatic.com/media/d60b39_eab8eb046ddd4fa6bb9361039d9afcd2~mv2.png/v1/fill/w_294%2Ch_262%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202023-09-05%20at%2014_47_39.png"
+    },
+    {
+      "title": "Radio interview on Sveriges Radio about big data in biodiversity research",
+      "meta": "January 14th, 2021",
+      "text": "A short radio interview about the utility and challenges of big data in biodiversity research.",
+      "paragraphs": [
+        "A short radio interview about the utility and challenges of big data in biodiversity research."
+      ],
+      "links": [],
+      "image": "https://static.wixstatic.com/media/d60b39_643de30d94f54129ad5cc13d8daf31f9~mv2.png/v1/crop/x_28%2Cy_0%2Cw_977%2Ch_876/fill/w_294%2Ch_262%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202023-03-17%20at%2018_12_08.png"
+    },
+    {
+      "title": "Live TV interview at TRT World News",
+      "meta": "September 7th, 2020",
+      "text": "In this live TV interview Tobias Andermann discusses the scale of the current biodiversity crisis and why we should care.",
+      "paragraphs": [
+        "In this live TV interview Tobias Andermann discusses the scale of the current biodiversity crisis and why we should care."
+      ],
+      "links": [],
+      "image": "https://static.wixstatic.com/media/d60b39_a5413c3cd7524212a9da9057dee9d6de~mv2.png/v1/crop/x_304%2Cy_0%2Cw_1183%2Ch_1060/fill/w_294%2Ch_262%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202023-03-17%20at%2017_39_35.png"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Properties and Limitations of eDNA Substrates for Terrestrial Animal Monitoring",
+      "meta": "Molecular Ecology Resources · 2026",
+      "text": "Beilun Zhao, Tobias Andermann",
+      "paragraphs": [
+        "Beilun Zhao, Tobias Andermann"
+      ],
+      "links": [
+        {
+          "text": "Read more",
+          "href": "https://doi.org/10.1111/1755-0998.70096"
+        }
+      ],
+      "image": "https://static.wixstatic.com/media/e497f2_672ab262ed7c430da7a98c6577e90a38~mv2.png/v1/fill/w_313%2Ch_214%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Properties%20and%20Limitations%20of%20eDNA%20Substrates%20for%20Terrestrial%20Animal%20Monitoring.png"
+    },
+    {
+      "title": "Estimating national Red List statuses for fungi in Sweden - An improved deep learning approach to account for unbalanced data",
+      "meta": "Ecological Informatics · 2025",
+      "text": "Filipe Gomes de Almeida, Adrian Baggstrom, Tobias Andermann",
+      "paragraphs": [
+        "Filipe Gomes de Almeida, Adrian Baggstrom, Tobias Andermann"
+      ],
+      "links": [
+        {
+          "text": "Read more",
+          "href": "https://doi.org/10.1016/j.ecoinf.2025.103476"
+        }
+      ],
+      "image": "https://static.wixstatic.com/media/e497f2_31bba07655da45eea29d8fb48e98612d~mv2.png/v1/crop/x_0%2Cy_143%2Cw_2368%2Ch_1619/fill/w_313%2Ch_214%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Estimating%20national%20Red%20List%20statuses%20for%20fungi%20in%20Sweden%20-%20An%20improved%20deep%20learning%20appr.png"
+    },
+    {
+      "title": "The utility of combining deep learning with metabarcoding to model biodiversity dynamics at a national scale",
+      "meta": "Ecological Informatics · 2025",
+      "text": "Adrian Baggstrom, Robert Goodsell, Laura van Dijk, Ela Iwaszkiewicz-Eggebrecht, Andreia Miraldo, Ayco J.M. Tack, Tobias Andermann",
+      "paragraphs": [
+        "Adrian Baggstrom, Robert Goodsell, Laura van Dijk, Ela Iwaszkiewicz-Eggebrecht, Andreia Miraldo, Ayco J.M. Tack, Tobias Andermann"
+      ],
+      "links": [
+        {
+          "text": "Read more",
+          "href": "https://doi.org/10.1016/j.ecoinf.2025.103318"
+        }
+      ],
+      "image": "https://static.wixstatic.com/media/d60b39_f502f43b55be4fb3acf60b006760328c~mv2.png/v1/crop/x_323%2Cy_0%2Cw_1364%2Ch_776/fill/w_313%2Ch_214%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202025-07-15%20at%2022_04_33.png"
+    },
+    {
+      "title": "Deep learning segmentation model produces accurate biodiversity predictions at 10 m spatial resolution",
+      "meta": "Research Square Preprints · 2024",
+      "text": "Tobias Andermann, Johan Haggmark, Patrik Olsson, Alice Hogstrom",
+      "paragraphs": [
+        "Tobias Andermann, Johan Haggmark, Patrik Olsson, Alice Hogstrom"
+      ],
+      "links": [
+        {
+          "text": "Read more",
+          "href": "https://doi.org/10.21203/rs.3.rs-4734879/v1"
+        }
+      ],
+      "image": "https://static.wixstatic.com/media/d60b39_559ade9124aa4f6d9a683338700a961f~mv2.png/v1/fill/w_313%2Ch_214%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Figure_1.png"
+    },
+    {
+      "title": "Exploring Paleogene Tibet's warm temperate environments through target enrichment and phylogenetic niche modelling of Himalayan spiny frogs",
+      "meta": "Molecular Ecology · 2024",
+      "text": "Sylvia Hofmann, Dennis Rodder, Tobias Andermann, Michael Matschiner, Jendrian Riedel, and collaborators",
+      "paragraphs": [
+        "Sylvia Hofmann, Dennis Rodder, Tobias Andermann, Michael Matschiner, Jendrian Riedel, and collaborators"
+      ],
+      "links": [
+        {
+          "text": "Read more",
+          "href": "https://doi.org/10.1111/mec.17446"
+        }
+      ],
+      "image": "https://static.wixstatic.com/media/d60b39_373183fd2e91430b854b8b9fb71a21c0~mv2.png/v1/fill/w_313%2Ch_214%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202024-09-05%20at%2021_46_41.png"
+    },
+    {
+      "title": "Undiscovered bird extinctions obscure the true magnitude of human-driven extinction waves",
+      "meta": "Nature Communications · 2023",
+      "text": "Rob Cooke, Ferran Sayol, Tobias Andermann, Tim Blackburn, Manuel Steinbauer, Alexandre Antonelli, Soren Faurby",
+      "paragraphs": [
+        "Rob Cooke, Ferran Sayol, Tobias Andermann, Tim Blackburn, Manuel Steinbauer, Alexandre Antonelli, Soren Faurby"
+      ],
+      "links": [
+        {
+          "text": "Read more",
+          "href": "https://www.nature.com/articles/s41467-023-43445-2"
+        }
+      ],
+      "image": "https://static.wixstatic.com/media/d60b39_5ce28fd9d7de4115b0cd42d28a9310bc~mv2.gif"
+    },
+    {
+      "title": "Madagascar's extraordinary biodiversity: Evolution, distribution, and use",
+      "meta": "Science · 2022",
+      "text": "Alexandre Antonelli and collaborators, including Tobias Andermann",
+      "paragraphs": [
+        "Alexandre Antonelli and collaborators, including Tobias Andermann"
+      ],
+      "links": [
+        {
+          "text": "Read more",
+          "href": "https://doi.org/10.1126/science.abf0869"
+        }
+      ],
+      "image": "https://static.wixstatic.com/media/d60b39_e8d758df6bd84ed2acb491795b932b66~mv2.png/v1/fill/w_313%2Ch_214%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202023-03-16%20at%2012_11_04.png"
+    },
+    {
+      "title": "Madagascar's extraordinary biodiversity: Threats and opportunities",
+      "meta": "Science · 2022",
+      "text": "Helene Ralimanana and collaborators, including Tobias Andermann and Alexandre Antonelli",
+      "paragraphs": [
+        "Helene Ralimanana and collaborators, including Tobias Andermann and Alexandre Antonelli"
+      ],
+      "links": [
+        {
+          "text": "Read more",
+          "href": "https://doi.org/10.1126/science.adf1466"
+        }
+      ],
+      "image": "https://static.wixstatic.com/media/d60b39_7a1d028a2aba4085815511d7104ca1c9~mv2.jpg/v1/fill/w_313%2Ch_214%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/%20JPG.jpg"
+    },
+    {
+      "title": "The origin and evolution of open habitats in North America inferred by Bayesian deep learning models",
+      "meta": "Nature Communications · 2022",
+      "text": "Tobias Andermann, Caroline Stromberg, Alexandre Antonelli, Daniele Silvestro",
+      "paragraphs": [
+        "Tobias Andermann, Caroline Stromberg, Alexandre Antonelli, Daniele Silvestro"
+      ],
+      "links": [
+        {
+          "text": "Read more",
+          "href": "https://www.nature.com/articles/s41467-022-32300-5"
+        }
+      ],
+      "image": "https://static.wixstatic.com/media/d60b39_9ebd5daaf96a4d9ab8b2894794612ab9~mv2.gif"
+    },
+    {
+      "title": "Estimating Alpha, Beta, and Gamma Diversity Through Deep Learning",
+      "meta": "Frontiers in Plant Sciences · 2022",
+      "text": "Tobias Andermann, Alexandre Antonelli, Russell Barrett, Daniele Silvestro",
+      "paragraphs": [
+        "Tobias Andermann, Alexandre Antonelli, Russell Barrett, Daniele Silvestro"
+      ],
+      "links": [
+        {
+          "text": "Read more",
+          "href": "https://doi.org/10.3389/fpls.2022.839407"
+        }
+      ],
+      "image": "https://static.wixstatic.com/media/d60b39_6ac2077d5912482b88cd166447855f9a~mv2.png/v1/crop/x_85%2Cy_0%2Cw_1175%2Ch_1072/fill/w_313%2Ch_214%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202022-10-04%20at%2019_05_20.png"
+    },
+    {
+      "title": "Global Estimation and Mapping of the Conservation Status of Tree Species Using Artificial Intelligence",
+      "meta": "Frontiers in Plant Sciences · 2022",
+      "text": "Sandro Valerio Silva, Tobias Andermann, Alexander Zizka, Gregor Kozlowski, Daniele Silvestro",
+      "paragraphs": [
+        "Sandro Valerio Silva, Tobias Andermann, Alexander Zizka, Gregor Kozlowski, Daniele Silvestro"
+      ],
+      "links": [
+        {
+          "text": "Read more",
+          "href": "https://www.frontiersin.org/articles/10.3389/fpls.2022.839792/full"
+        }
+      ],
+      "image": "https://static.wixstatic.com/media/d60b39_6bf52c2277ff447d9ee30f246015d21d~mv2.jpg/v1/crop/x_97%2Cy_0%2Cw_2449%2Ch_1977/fill/w_313%2Ch_214%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/fpls-13-839792-g004_edited.jpg"
+    },
+    {
+      "title": "IUCNN - Deep learning approaches to approximate species' extinction risk",
+      "meta": "Diversity and Distributions · 2022",
+      "text": "Alexander Zizka, Tobias Andermann, Daniele Silvestro",
+      "paragraphs": [
+        "Alexander Zizka, Tobias Andermann, Daniele Silvestro"
+      ],
+      "links": [
+        {
+          "text": "Read more",
+          "href": "https://doi.org/10.1111/ddi.13550"
+        }
+      ],
+      "image": "https://static.wixstatic.com/media/d60b39_ad333348767b40f9ba2b0ab6e1ea23b1~mv2.png/v1/fill/w_313%2Ch_214%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202022-10-04%20at%2018_50_36.png"
+    }
+  ],
+  "donations": [
+    {
+      "title": "1,000 eDNA kits + analysis - 500,000 kr",
+      "meta": "",
+      "text": "This funding package would provide all necessary consumables and processing costs, including DNA sequencing, for 1,000 eDNA sampling kits. This will provide essential training data for our biodiversity models.",
+      "paragraphs": [
+        "This funding package would provide all necessary consumables and processing costs, including DNA sequencing, for 1,000 eDNA sampling kits. This will provide essential training data for our biodiversity models."
+      ],
+      "links": [],
+      "image": "https://static.wixstatic.com/media/d60b39_5f2efa4e96884d7991ec6721c98b0e18~mv2.png/v1/fill/w_680%2Ch_606%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202025-05-22%20at%2018_48_33.png"
+    },
+    {
+      "title": "Lab assistant (50%) - 600,000 kr per year",
+      "meta": "",
+      "text": "This package would provide salary, social fees, and overhead for employing a 50% full-time laboratory assistant for sample processing, DNA extraction, and preparation for sequencing.",
+      "paragraphs": [
+        "This package would provide salary, social fees, and overhead for employing a 50% full-time laboratory assistant for sample processing, DNA extraction, and preparation for sequencing."
+      ],
+      "links": [],
+      "image": "https://static.wixstatic.com/media/d60b39_430d13e0bc3041ac92fbc6509d3919f0~mv2.png/v1/fill/w_680%2Ch_606%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202025-05-14%20at%2001_30_19.png"
+    },
+    {
+      "title": "Bench-top DNA sequencer - 1,000,000 kr",
+      "meta": "",
+      "text": "Purchasing our own bench-top DNA sequencing machine would decrease costs per eDNA sample and speed up biodiversity data generation. Options in this range include the PacBio Vega Benchtop System or Nanopore PromethION sequencer.",
+      "paragraphs": [
+        "Purchasing our own bench-top DNA sequencing machine would decrease costs per eDNA sample and speed up biodiversity data generation. Options in this range include the PacBio Vega Benchtop System or Nanopore PromethION sequencer."
+      ],
+      "links": [],
+      "image": "https://static.wixstatic.com/media/d60b39_74cd7e26fd8a4a8a96682d8974b7f027~mv2.png/v1/fill/w_620%2Ch_553%2Cal_c%2Cq_85%2Cenc_avif%2Cquality_auto/Screenshot%202025-05-14%20at%2001_31_36.png"
+    },
+    {
+      "title": "Biodiversity data engineer - 1,200,000 kr per year",
+      "meta": "",
+      "text": "A full-time biodiversity data engineer would help make research outputs accessible via online portals and user-friendly map services for decision-makers, researchers, businesses, and the public.",
+      "paragraphs": [
+        "A full-time biodiversity data engineer would help make research outputs accessible via online portals and user-friendly map services for decision-makers, researchers, businesses, and the public."
+      ],
+      "links": [],
+      "image": "https://static.wixstatic.com/media/d60b39_253ad9365f7e473c950705e0496ec245~mv2.png/v1/fill/w_680%2Ch_606%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202025-05-14%20at%2001_32_48.png"
+    },
+    {
+      "title": "Senior Biodiversity Data Lab Leader (30%) - 5,000,000 kr over 10 years",
+      "meta": "",
+      "text": "This package would secure long-term leadership of the Biodiversity Data Lab and support continued research innovation, international competitiveness, and public representation.",
+      "paragraphs": [
+        "This package would secure long-term leadership of the Biodiversity Data Lab and support continued research innovation, international competitiveness, and public representation."
+      ],
+      "links": [],
+      "image": "https://static.wixstatic.com/media/d60b39_a39669267d2942faa17ad9891d120b95~mv2.png/v1/fill/w_680%2Ch_606%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202025-05-14%20at%2001_33_51.png"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "SBDI Conference in Stockholm, February 2026",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/e497f2_0d67a060e54b472081d542294aec3f7a~mv2.png/v1/fill/w_250%2Ch_187%2Cal_c%2Cq_95%2Cenc_auto/e497f2_0d67a060e54b472081d542294aec3f7a~mv2.png",
+          "alt": "Conference travel"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/e497f2_c07cc45cc0a9449680849134826520c7~mv2.jpg/v1/fill/w_250%2Ch_333%2Cal_c%2Cq_90%2Cenc_auto/e497f2_c07cc45cc0a9449680849134826520c7~mv2.jpg",
+          "alt": "On the train to SBDI"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/e497f2_bc240686cb824659bee30a9e3b184367~mv2.png/v1/fill/w_250%2Ch_333%2Cal_c%2Cq_95%2Cenc_auto/e497f2_bc240686cb824659bee30a9e3b184367~mv2.png",
+          "alt": "Working at Stockholm Central"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/e497f2_4cf7b71f98a54234a61e23db1c8f80c7~mv2.jpg/v1/fill/w_250%2Ch_187%2Cal_c%2Cq_90%2Cenc_auto/e497f2_4cf7b71f98a54234a61e23db1c8f80c7~mv2.jpg",
+          "alt": "Conference presentation"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/e497f2_1288b9ffd593484b98805af6665737a0~mv2.jpg/v1/fill/w_250%2Ch_187%2Cal_c%2Cq_90%2Cenc_auto/e497f2_1288b9ffd593484b98805af6665737a0~mv2.jpg",
+          "alt": "Lecture hall"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/e497f2_ff0fae36c9d84d7f8f83b1ddb98792e9~mv2.jpg/v1/fill/w_250%2Ch_187%2Cal_c%2Cq_90%2Cenc_auto/e497f2_ff0fae36c9d84d7f8f83b1ddb98792e9~mv2.jpg",
+          "alt": "Predictive biodiversity model"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/e497f2_0c383f4cc1b14511b399bad62ea0e168~mv2.jpg/v1/fill/w_250%2Ch_187%2Cal_c%2Cq_90%2Cenc_auto/e497f2_0c383f4cc1b14511b399bad62ea0e168~mv2.jpg",
+          "alt": "SBDI panel"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/e497f2_c05092de93fa4b0bbcbda98e72303d13~mv2.jpeg/v1/fill/w_250%2Ch_444%2Cal_c%2Cq_90%2Cenc_auto/e497f2_c05092de93fa4b0bbcbda98e72303d13~mv2.jpeg",
+          "alt": "Poster session"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/e497f2_9f87f5471f9340ab8d2f729da674cf90~mv2.jpg/v1/fill/w_250%2Ch_333%2Cal_c%2Cq_90%2Cenc_auto/e497f2_9f87f5471f9340ab8d2f729da674cf90~mv2.jpg",
+          "alt": "Research discussions"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/e497f2_df37c4191c904d979cec215e861efe6a~mv2.jpg/v1/fill/w_250%2Ch_187%2Cal_c%2Cq_90%2Cenc_auto/e497f2_df37c4191c904d979cec215e861efe6a~mv2.jpg",
+          "alt": "AI and Natural History Archives talk"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/e497f2_88a7796b554041b0892958f0252c43fd~mv2.jpg/v1/fill/w_250%2Ch_187%2Cal_c%2Cq_90%2Cenc_auto/e497f2_88a7796b554041b0892958f0252c43fd~mv2.jpg",
+          "alt": "Biodiversity talk"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/e497f2_b537cbf8624b464bba4cad5279ae8c7f~mv2.jpg/v1/fill/w_250%2Ch_187%2Cal_c%2Cq_90%2Cenc_auto/e497f2_b537cbf8624b464bba4cad5279ae8c7f~mv2.jpg",
+          "alt": "Panel on biodiversity data"
+        }
+      ]
+    },
+    {
+      "title": "Impressions from Monica's Field Work in Spain",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/e497f2_26099d6dce554cbf85ebe505eff26171~mv2.jpg/v1/fill/w_250%2Ch_166%2Cal_c%2Cq_90%2Cenc_auto/e497f2_26099d6dce554cbf85ebe505eff26171~mv2.jpg",
+          "alt": "Prescribed burn field site"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/e497f2_5ccfe64d639f489b90517735564ab377~mv2.jpg/v1/fill/w_250%2Ch_166%2Cal_c%2Cq_90%2Cenc_auto/e497f2_5ccfe64d639f489b90517735564ab377~mv2.jpg",
+          "alt": "Controlled fire front"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/e497f2_a2b26777eae94a3a93878d196ffa89ba~mv2.jpg/v1/fill/w_250%2Ch_166%2Cal_c%2Cq_90%2Cenc_auto/e497f2_a2b26777eae94a3a93878d196ffa89ba~mv2.jpg",
+          "alt": "Small flames in dry vegetation"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/e497f2_296227b317f349319fb8ab57f7ee0f51~mv2.jpg/v1/fill/w_250%2Ch_375%2Cal_c%2Cq_90%2Cenc_auto/e497f2_296227b317f349319fb8ab57f7ee0f51~mv2.jpg",
+          "alt": "Flames and smoke"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/e497f2_49a8260192b544989259111f9338b153~mv2.jpg/v1/fill/w_250%2Ch_166%2Cal_c%2Cq_90%2Cenc_auto/e497f2_49a8260192b544989259111f9338b153~mv2.jpg",
+          "alt": "Post-burn ground cover"
+        }
+      ]
+    },
+    {
+      "title": "Business and Biodiversity Workshop at Ekenas Herrgard 2024",
+      "images": [
+        {
+          "src": "https://static.wixstatic.com/media/d60b39_de5473d2361c4fa2abfd952ab02e0c53~mv2.jpeg/v1/fill/w_294%2Ch_262%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/IMG_8590.jpeg",
+          "alt": "Workshop group photo"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/d60b39_de343f95edb34179a79dbc0bd0cd941a~mv2.png/v1/crop/x_227%2Cy_0%2Cw_2324%2Ch_2083/fill/w_294%2Ch_262%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Figure_workflow.png",
+          "alt": "Workshop biodiversity discussion"
+        },
+        {
+          "src": "https://static.wixstatic.com/media/d60b39_559ade9124aa4f6d9a683338700a961f~mv2.png/v1/fill/w_571%2Ch_354%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Figure_1.png",
+          "alt": "High conservation value forest model"
+        }
+      ]
+    }
+  ]
+}

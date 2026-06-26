@@ -1,0 +1,298 @@
+[
+  {
+    "label": "home hero",
+    "url": "https://static.wixstatic.com/media/d60b39_feff4845d5fd4963896af13a2a8c99d1~mv2.jpeg/v1/fill/w_941%2Ch_706%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/d60b39_feff4845d5fd4963896af13a2a8c99d1~mv2.jpeg"
+  },
+  {
+    "label": "Biodiversity data",
+    "url": "https://static.wixstatic.com/media/d60b39_01478ba27cac4de88a84d36b487b8f31~mv2.jpg/v1/crop/x_0%2Cy_1%2Cw_1218%2Ch_1218/fill/w_121%2Ch_121%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/eDNA_edited.jpg"
+  },
+  {
+    "label": "Spatial data",
+    "url": "https://static.wixstatic.com/media/d60b39_93e30f82b43046439e25efd8cd64fd44~mv2.png/v1/crop/x_9%2Cy_0%2Cw_381%2Ch_381/fill/w_121%2Ch_121%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/LAS_point_cloud_5%20Background%20Removed_edited.png"
+  },
+  {
+    "label": "Machine learning",
+    "url": "https://static.wixstatic.com/media/d60b39_76dcec93400d4e7d8738845c6b6c21b8~mv2.jpg/v1/crop/x_3%2Cy_0%2Cw_1928%2Ch_1928/fill/w_121%2Ch_121%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/nn_img_edited.jpg"
+  },
+  {
+    "label": "BIOSCANN - BIOdiversity Segmentation and Classification with Artificial Neural Networks",
+    "url": "https://static.wixstatic.com/media/d60b39_559ade9124aa4f6d9a683338700a961f~mv2.png/v1/fill/w_571%2Ch_354%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Figure_1.png"
+  },
+  {
+    "label": "High-resolution insect diversity predictions from DNA-based monitoring",
+    "url": "https://static.wixstatic.com/media/d60b39_8a025f343b744f9a8f06ef5e261f7beb~mv2.jpg/v1/crop/x_0%2Cy_0%2Cw_2560%2Ch_1200/fill/w_589%2Ch_268%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/zoomin4%20%281%29_edited.jpg"
+  },
+  {
+    "label": "Limits to prediction: Why global biodiversity models fail to generalize",
+    "url": "https://static.wixstatic.com/media/d60b39_6d8687c709cc47c2a740aad70912bb82~mv2.png/v1/fill/w_519%2Ch_546%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/pipeline.png"
+  },
+  {
+    "label": "Environmental Data Downloading Pipeline",
+    "url": "https://static.wixstatic.com/media/e497f2_06c7863460e548ed835976232888d0f6~mv2.png/v1/crop/x_0%2Cy_45%2Cw_7160%2Ch_5356/fill/w_598%2Ch_447%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Environmental%20Data%20Dowload%20Pipeline.png"
+  },
+  {
+    "label": "Tobias Andermann",
+    "url": "https://static.wixstatic.com/media/d60b39_944e2e41ba204801a7ce12c820b63368~mv2.jpg/v1/fill/w_501%2Ch_450%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/_DSC5908_lower_res_edited.jpg"
+  },
+  {
+    "label": "Adrian Baggstrom",
+    "url": "https://static.wixstatic.com/media/f89542_a7ac55346e5945a7ac6246d51ad1b38f~mv2.jpg/v1/crop/x_160%2Cy_25%2Cw_1673%2Ch_1308/fill/w_470%2Ch_368%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/DSC_0184_edited.jpg"
+  },
+  {
+    "label": "Monica Guilera Recoder",
+    "url": "https://static.wixstatic.com/media/135a5f_6fbe2fca792940518cee9fd14c1e43b7~mv2.jpg/v1/crop/x_304%2Cy_237%2Cw_3046%2Ch_2450/fill/w_501%2Ch_403%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/20220817_181903.jpg"
+  },
+  {
+    "label": "Jakob Nystrom",
+    "url": "https://static.wixstatic.com/media/d60b39_359097c5ec46489ba38b35fc3ee45454~mv2.jpg/v1/fill/w_470%2Ch_470%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/T04MN5UUWTX-U07UJ4URENA-fb6091b1eb75-512.jpg"
+  },
+  {
+    "label": "Jan Borgelt",
+    "url": "https://static.wixstatic.com/media/d60b39_cc7b0217679243469e0dc599c1f7b82b~mv2.jpg/v1/crop/x_0%2Cy_78%2Cw_594%2Ch_642/fill/w_501%2Ch_541%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/dsc_02571_720.jpg"
+  },
+  {
+    "label": "Vun Wen Jie (VJ)",
+    "url": "https://static.wixstatic.com/media/d60b39_6b19645b08b0434aa6947ca4d567416f~mv2.jpg/v1/crop/x_0%2Cy_80%2Cw_877%2Ch_764/fill/w_470%2Ch_409%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/1000000264_edited.jpg"
+  },
+  {
+    "label": "Mahwash Jamy",
+    "url": "https://static.wixstatic.com/media/d60b39_cfc3a1b98a914967885c33001cf7eede~mv2.png/v1/fill/w_501%2Ch_450%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202025-11-05%20at%2013_49_41.png"
+  },
+  {
+    "label": "Bianca Sarcani",
+    "url": "https://static.wixstatic.com/media/d60b39_9a168cf3979c4fa2a7e43e7295bf4f92~mv2.png/v1/crop/x_0%2Cy_164%2Cw_1680%2Ch_1476/fill/w_470%2Ch_413%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202025-11-05%20at%2013_50_24.png"
+  },
+  {
+    "label": "Linus Lassen",
+    "url": "https://static.wixstatic.com/media/e497f2_e93a3a70bfa14cb0aadac2f94638ed92~mv2.jpg/v1/fill/w_501%2Ch_450%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/20251114_125643_Ausschnitt.jpg"
+  },
+  {
+    "label": "Caleb Caulk",
+    "url": "https://static.wixstatic.com/media/e497f2_c20f5db506714e6592d6aae25a499885~mv2.png/v1/crop/x_0%2Cy_113%2Cw_1720%2Ch_1333/fill/w_470%2Ch_364%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Caleb.png"
+  },
+  {
+    "label": "Britt Andermann",
+    "url": "https://static.wixstatic.com/media/d60b39_1f8c0031d2c14f2991df906fe54f0d61~mv2.jpg/v1/crop/x_0%2Cy_319%2Cw_1087%2Ch_894/fill/w_501%2Ch_412%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/20251014091359.jpg"
+  },
+  {
+    "label": "Jiacheng Ling",
+    "url": "https://static.wixstatic.com/media/d60b39_39101047dd1541e9947d2e4f96bac967~mv2.jpg/v1/crop/x_0%2Cy_565%2Cw_1737%2Ch_1899/fill/w_470%2Ch_514%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Weixin%20Image_20250226162802.jpg"
+  },
+  {
+    "label": "Beilun Zhao",
+    "url": "https://static.wixstatic.com/media/d60b39_c4b01c9730af4f00811909737a2aeb7c~mv2.jpg/v1/fill/w_501%2Ch_450%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/IMG_5666_edited.jpg"
+  },
+  {
+    "label": "Filipe Almeida",
+    "url": "https://static.wixstatic.com/media/d60b39_b6bd36153601497298c0420c22ee661b~mv2.jpeg/v1/crop/x_0%2Cy_312%2Cw_1397%2Ch_1178/fill/w_470%2Ch_396%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Photo_Filipe.jpeg"
+  },
+  {
+    "label": "Alice Satre",
+    "url": "https://static.wixstatic.com/media/d60b39_fdc9fa3513af4447ae336542b2292a3f~mv2.jpg/v1/crop/x_0%2Cy_232%2Cw_1280%2Ch_766/fill/w_501%2Ch_300%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/alice_edited.jpg"
+  },
+  {
+    "label": "Shuangshuang Wang",
+    "url": "https://static.wixstatic.com/media/d60b39_08e082a669eb47fca05f17b23c536804~mv2.jpg/v1/crop/x_0%2Cy_656%2Cw_1280%2Ch_1078/fill/w_470%2Ch_396%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/photo.jpg"
+  },
+  {
+    "label": "Schools engaged in forest biodiversity study",
+    "url": "https://static.wixstatic.com/media/e497f2_f3871fefada04b218208ec567012b8da~mv2.jpg/v1/fill/w_294%2Ch_262%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Forskarhj%C3%A4lpen_edited.jpg"
+  },
+  {
+    "label": "MostFUN & GEOBON Seminar",
+    "url": "https://static.wixstatic.com/media/e497f2_ba4e1eddef8c408e9856b4137852cf21~mv2.jpg/v1/fill/w_294%2Ch_262%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202026-03-19%20182138_edited.jpg"
+  },
+  {
+    "label": "Environmental Scholarship Award for Master Student",
+    "url": "https://static.wixstatic.com/media/e497f2_add04d3eaa724706a128e15030b7bb4f~mv2.jpg/v1/fill/w_294%2Ch_262%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Linus%20Scholarship.jpg"
+  },
+  {
+    "label": "Interview with Sveriges Radio on AI in biodiversity research",
+    "url": "https://static.wixstatic.com/media/d60b39_4f608fe2e3d749dda1a196bb114edd68~mv2.webp/v1/fill/w_294%2Ch_262%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/11a87b74-e95d-4903-a7d2-8f8e3af8df76_jpg.webp"
+  },
+  {
+    "label": "Business and biodiversity workshop at Ekenas Herrgard",
+    "url": "https://static.wixstatic.com/media/d60b39_de5473d2361c4fa2abfd952ab02e0c53~mv2.jpeg/v1/fill/w_294%2Ch_262%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/IMG_8590.jpeg"
+  },
+  {
+    "label": "Discussing the global biodiversity crisis on TV panel at TRT World News",
+    "url": "https://static.wixstatic.com/media/d60b39_530507f9a96446e69a0f0a6fe39ef153~mv2.png/v1/fill/w_294%2Ch_262%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202024-06-27%20at%2010_43_25.png"
+  },
+  {
+    "label": "Public seminar on spatial biodiversity modeling for RISE",
+    "url": "https://static.wixstatic.com/media/d60b39_1fc3b90c09c4441fa4336a2b35373739~mv2.png/v1/fill/w_294%2Ch_262%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202024-09-17%20at%2010_10_44.png"
+  },
+  {
+    "label": "Uppsala University News covers our study on global bird extinctions",
+    "url": "https://static.wixstatic.com/media/d60b39_7f2b2a69a66f4a008615d5a81bdbe31c~mv2.png/v1/fill/w_294%2Ch_262%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202024-01-11%20at%2015_17_01.png"
+  },
+  {
+    "label": "Benzelius prize for natural science and medicine awarded to Tobias Andermann",
+    "url": "https://static.wixstatic.com/media/d60b39_eab8eb046ddd4fa6bb9361039d9afcd2~mv2.png/v1/fill/w_294%2Ch_262%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202023-09-05%20at%2014_47_39.png"
+  },
+  {
+    "label": "Researcher profile Tobias Andermann - Uppsala University interview series",
+    "url": "https://static.wixstatic.com/media/d60b39_68b5a8f4b2d54e5b924dd4e9e1b196f6~mv2.jpg/v1/fill/w_294%2Ch_262%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/c_1057520-l_3-k_andermann_edited.jpg"
+  },
+  {
+    "label": "News coverage of our twin articles on Madagascar's biodiversity",
+    "url": "https://static.wixstatic.com/media/d60b39_d25980b2b8f24af1a628ac584e144684~mv2.jpg/v1/fill/w_294%2Ch_262%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/PB157260_JPG.jpg"
+  },
+  {
+    "label": "Bayesian deep learning model finds clues about the evolution of open habitats",
+    "url": "https://static.wixstatic.com/media/d60b39_9ebd5daaf96a4d9ab8b2894794612ab9~mv2.gif"
+  },
+  {
+    "label": "Our recent study in the spotlight: Estimating alpha, beta, and gamma diversity through deep learning",
+    "url": "https://static.wixstatic.com/media/d60b39_de343f95edb34179a79dbc0bd0cd941a~mv2.png/v1/crop/x_227%2Cy_0%2Cw_2324%2Ch_2083/fill/w_294%2Ch_262%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Figure_workflow.png"
+  },
+  {
+    "label": "Tobias Andermann appointed as new DDLS fellow - Q&A interview",
+    "url": "https://static.wixstatic.com/media/d60b39_1bb9f11ec57c4735afe3db572cc8f9da~mv2.jpeg/v1/crop/x_414%2Cy_0%2Cw_965%2Ch_864/fill/w_294%2Ch_262%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/ddls_fellow_image.jpeg"
+  },
+  {
+    "label": "Tobias Andermann awarded prize by H.M. King Carl XVI Gustaf",
+    "url": "https://static.wixstatic.com/media/d60b39_23dc0132db1740d38cc85ba95b1edc27~mv2.jpeg/v1/crop/x_328%2Cy_0%2Cw_1904%2Ch_1707/fill/w_294%2Ch_262%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Tobias-Andermann-Doktorsarbete-ERC_8005-scaled.jpeg"
+  },
+  {
+    "label": "Radio interview on Sveriges Radio about big data in biodiversity research",
+    "url": "https://static.wixstatic.com/media/d60b39_643de30d94f54129ad5cc13d8daf31f9~mv2.png/v1/crop/x_28%2Cy_0%2Cw_977%2Ch_876/fill/w_294%2Ch_262%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202023-03-17%20at%2018_12_08.png"
+  },
+  {
+    "label": "Live TV interview at TRT World News",
+    "url": "https://static.wixstatic.com/media/d60b39_a5413c3cd7524212a9da9057dee9d6de~mv2.png/v1/crop/x_304%2Cy_0%2Cw_1183%2Ch_1060/fill/w_294%2Ch_262%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202023-03-17%20at%2017_39_35.png"
+  },
+  {
+    "label": "Properties and Limitations of eDNA Substrates for Terrestrial Animal Monitoring",
+    "url": "https://static.wixstatic.com/media/e497f2_672ab262ed7c430da7a98c6577e90a38~mv2.png/v1/fill/w_313%2Ch_214%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Properties%20and%20Limitations%20of%20eDNA%20Substrates%20for%20Terrestrial%20Animal%20Monitoring.png"
+  },
+  {
+    "label": "Estimating national Red List statuses for fungi in Sweden - An improved deep learning approach to account for unbalanced data",
+    "url": "https://static.wixstatic.com/media/e497f2_31bba07655da45eea29d8fb48e98612d~mv2.png/v1/crop/x_0%2Cy_143%2Cw_2368%2Ch_1619/fill/w_313%2Ch_214%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Estimating%20national%20Red%20List%20statuses%20for%20fungi%20in%20Sweden%20-%20An%20improved%20deep%20learning%20appr.png"
+  },
+  {
+    "label": "The utility of combining deep learning with metabarcoding to model biodiversity dynamics at a national scale",
+    "url": "https://static.wixstatic.com/media/d60b39_f502f43b55be4fb3acf60b006760328c~mv2.png/v1/crop/x_323%2Cy_0%2Cw_1364%2Ch_776/fill/w_313%2Ch_214%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202025-07-15%20at%2022_04_33.png"
+  },
+  {
+    "label": "Deep learning segmentation model produces accurate biodiversity predictions at 10 m spatial resolution",
+    "url": "https://static.wixstatic.com/media/d60b39_559ade9124aa4f6d9a683338700a961f~mv2.png/v1/fill/w_313%2Ch_214%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Figure_1.png"
+  },
+  {
+    "label": "Exploring Paleogene Tibet's warm temperate environments through target enrichment and phylogenetic niche modelling of Himalayan spiny frogs",
+    "url": "https://static.wixstatic.com/media/d60b39_373183fd2e91430b854b8b9fb71a21c0~mv2.png/v1/fill/w_313%2Ch_214%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202024-09-05%20at%2021_46_41.png"
+  },
+  {
+    "label": "Undiscovered bird extinctions obscure the true magnitude of human-driven extinction waves",
+    "url": "https://static.wixstatic.com/media/d60b39_5ce28fd9d7de4115b0cd42d28a9310bc~mv2.gif"
+  },
+  {
+    "label": "Madagascar's extraordinary biodiversity: Evolution, distribution, and use",
+    "url": "https://static.wixstatic.com/media/d60b39_e8d758df6bd84ed2acb491795b932b66~mv2.png/v1/fill/w_313%2Ch_214%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202023-03-16%20at%2012_11_04.png"
+  },
+  {
+    "label": "Madagascar's extraordinary biodiversity: Threats and opportunities",
+    "url": "https://static.wixstatic.com/media/d60b39_7a1d028a2aba4085815511d7104ca1c9~mv2.jpg/v1/fill/w_313%2Ch_214%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/%20JPG.jpg"
+  },
+  {
+    "label": "Estimating Alpha, Beta, and Gamma Diversity Through Deep Learning",
+    "url": "https://static.wixstatic.com/media/d60b39_6ac2077d5912482b88cd166447855f9a~mv2.png/v1/crop/x_85%2Cy_0%2Cw_1175%2Ch_1072/fill/w_313%2Ch_214%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202022-10-04%20at%2019_05_20.png"
+  },
+  {
+    "label": "Global Estimation and Mapping of the Conservation Status of Tree Species Using Artificial Intelligence",
+    "url": "https://static.wixstatic.com/media/d60b39_6bf52c2277ff447d9ee30f246015d21d~mv2.jpg/v1/crop/x_97%2Cy_0%2Cw_2449%2Ch_1977/fill/w_313%2Ch_214%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/fpls-13-839792-g004_edited.jpg"
+  },
+  {
+    "label": "IUCNN - Deep learning approaches to approximate species' extinction risk",
+    "url": "https://static.wixstatic.com/media/d60b39_ad333348767b40f9ba2b0ab6e1ea23b1~mv2.png/v1/fill/w_313%2Ch_214%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202022-10-04%20at%2018_50_36.png"
+  },
+  {
+    "label": "1,000 eDNA kits + analysis - 500,000 kr",
+    "url": "https://static.wixstatic.com/media/d60b39_5f2efa4e96884d7991ec6721c98b0e18~mv2.png/v1/fill/w_680%2Ch_606%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202025-05-22%20at%2018_48_33.png"
+  },
+  {
+    "label": "Lab assistant (50%) - 600,000 kr per year",
+    "url": "https://static.wixstatic.com/media/d60b39_430d13e0bc3041ac92fbc6509d3919f0~mv2.png/v1/fill/w_680%2Ch_606%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202025-05-14%20at%2001_30_19.png"
+  },
+  {
+    "label": "Bench-top DNA sequencer - 1,000,000 kr",
+    "url": "https://static.wixstatic.com/media/d60b39_74cd7e26fd8a4a8a96682d8974b7f027~mv2.png/v1/fill/w_620%2Ch_553%2Cal_c%2Cq_85%2Cenc_avif%2Cquality_auto/Screenshot%202025-05-14%20at%2001_31_36.png"
+  },
+  {
+    "label": "Biodiversity data engineer - 1,200,000 kr per year",
+    "url": "https://static.wixstatic.com/media/d60b39_253ad9365f7e473c950705e0496ec245~mv2.png/v1/fill/w_680%2Ch_606%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202025-05-14%20at%2001_32_48.png"
+  },
+  {
+    "label": "Senior Biodiversity Data Lab Leader (30%) - 5,000,000 kr over 10 years",
+    "url": "https://static.wixstatic.com/media/d60b39_a39669267d2942faa17ad9891d120b95~mv2.png/v1/fill/w_680%2Ch_606%2Cal_c%2Cq_90%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/Screenshot%202025-05-14%20at%2001_33_51.png"
+  },
+  {
+    "label": "SBDI Conference in Stockholm, February 2026 image 1",
+    "url": "https://static.wixstatic.com/media/e497f2_0d67a060e54b472081d542294aec3f7a~mv2.png/v1/fill/w_250%2Ch_187%2Cal_c%2Cq_95%2Cenc_auto/e497f2_0d67a060e54b472081d542294aec3f7a~mv2.png"
+  },
+  {
+    "label": "SBDI Conference in Stockholm, February 2026 image 2",
+    "url": "https://static.wixstatic.com/media/e497f2_c07cc45cc0a9449680849134826520c7~mv2.jpg/v1/fill/w_250%2Ch_333%2Cal_c%2Cq_90%2Cenc_auto/e497f2_c07cc45cc0a9449680849134826520c7~mv2.jpg"
+  },
+  {
+    "label": "SBDI Conference in Stockholm, February 2026 image 3",
+    "url": "https://static.wixstatic.com/media/e497f2_bc240686cb824659bee30a9e3b184367~mv2.png/v1/fill/w_250%2Ch_333%2Cal_c%2Cq_95%2Cenc_auto/e497f2_bc240686cb824659bee30a9e3b184367~mv2.png"
+  },
+  {
+    "label": "SBDI Conference in Stockholm, February 2026 image 4",
+    "url": "https://static.wixstatic.com/media/e497f2_4cf7b71f98a54234a61e23db1c8f80c7~mv2.jpg/v1/fill/w_250%2Ch_187%2Cal_c%2Cq_90%2Cenc_auto/e497f2_4cf7b71f98a54234a61e23db1c8f80c7~mv2.jpg"
+  },
+  {
+    "label": "SBDI Conference in Stockholm, February 2026 image 5",
+    "url": "https://static.wixstatic.com/media/e497f2_1288b9ffd593484b98805af6665737a0~mv2.jpg/v1/fill/w_250%2Ch_187%2Cal_c%2Cq_90%2Cenc_auto/e497f2_1288b9ffd593484b98805af6665737a0~mv2.jpg"
+  },
+  {
+    "label": "SBDI Conference in Stockholm, February 2026 image 6",
+    "url": "https://static.wixstatic.com/media/e497f2_ff0fae36c9d84d7f8f83b1ddb98792e9~mv2.jpg/v1/fill/w_250%2Ch_187%2Cal_c%2Cq_90%2Cenc_auto/e497f2_ff0fae36c9d84d7f8f83b1ddb98792e9~mv2.jpg"
+  },
+  {
+    "label": "SBDI Conference in Stockholm, February 2026 image 7",
+    "url": "https://static.wixstatic.com/media/e497f2_0c383f4cc1b14511b399bad62ea0e168~mv2.jpg/v1/fill/w_250%2Ch_187%2Cal_c%2Cq_90%2Cenc_auto/e497f2_0c383f4cc1b14511b399bad62ea0e168~mv2.jpg"
+  },
+  {
+    "label": "SBDI Conference in Stockholm, February 2026 image 8",
+    "url": "https://static.wixstatic.com/media/e497f2_c05092de93fa4b0bbcbda98e72303d13~mv2.jpeg/v1/fill/w_250%2Ch_444%2Cal_c%2Cq_90%2Cenc_auto/e497f2_c05092de93fa4b0bbcbda98e72303d13~mv2.jpeg"
+  },
+  {
+    "label": "SBDI Conference in Stockholm, February 2026 image 9",
+    "url": "https://static.wixstatic.com/media/e497f2_9f87f5471f9340ab8d2f729da674cf90~mv2.jpg/v1/fill/w_250%2Ch_333%2Cal_c%2Cq_90%2Cenc_auto/e497f2_9f87f5471f9340ab8d2f729da674cf90~mv2.jpg"
+  },
+  {
+    "label": "SBDI Conference in Stockholm, February 2026 image 10",
+    "url": "https://static.wixstatic.com/media/e497f2_df37c4191c904d979cec215e861efe6a~mv2.jpg/v1/fill/w_250%2Ch_187%2Cal_c%2Cq_90%2Cenc_auto/e497f2_df37c4191c904d979cec215e861efe6a~mv2.jpg"
+  },
+  {
+    "label": "SBDI Conference in Stockholm, February 2026 image 11",
+    "url": "https://static.wixstatic.com/media/e497f2_88a7796b554041b0892958f0252c43fd~mv2.jpg/v1/fill/w_250%2Ch_187%2Cal_c%2Cq_90%2Cenc_auto/e497f2_88a7796b554041b0892958f0252c43fd~mv2.jpg"
+  },
+  {
+    "label": "SBDI Conference in Stockholm, February 2026 image 12",
+    "url": "https://static.wixstatic.com/media/e497f2_b537cbf8624b464bba4cad5279ae8c7f~mv2.jpg/v1/fill/w_250%2Ch_187%2Cal_c%2Cq_90%2Cenc_auto/e497f2_b537cbf8624b464bba4cad5279ae8c7f~mv2.jpg"
+  },
+  {
+    "label": "Impressions from Monica's Field Work in Spain image 1",
+    "url": "https://static.wixstatic.com/media/e497f2_26099d6dce554cbf85ebe505eff26171~mv2.jpg/v1/fill/w_250%2Ch_166%2Cal_c%2Cq_90%2Cenc_auto/e497f2_26099d6dce554cbf85ebe505eff26171~mv2.jpg"
+  },
+  {
+    "label": "Impressions from Monica's Field Work in Spain image 2",
+    "url": "https://static.wixstatic.com/media/e497f2_5ccfe64d639f489b90517735564ab377~mv2.jpg/v1/fill/w_250%2Ch_166%2Cal_c%2Cq_90%2Cenc_auto/e497f2_5ccfe64d639f489b90517735564ab377~mv2.jpg"
+  },
+  {
+    "label": "Impressions from Monica's Field Work in Spain image 3",
+    "url": "https://static.wixstatic.com/media/e497f2_a2b26777eae94a3a93878d196ffa89ba~mv2.jpg/v1/fill/w_250%2Ch_166%2Cal_c%2Cq_90%2Cenc_auto/e497f2_a2b26777eae94a3a93878d196ffa89ba~mv2.jpg"
+  },
+  {
+    "label": "Impressions from Monica's Field Work in Spain image 4",
+    "url": "https://static.wixstatic.com/media/e497f2_296227b317f349319fb8ab57f7ee0f51~mv2.jpg/v1/fill/w_250%2Ch_375%2Cal_c%2Cq_90%2Cenc_auto/e497f2_296227b317f349319fb8ab57f7ee0f51~mv2.jpg"
+  },
+  {
+    "label": "Impressions from Monica's Field Work in Spain image 5",
+    "url": "https://static.wixstatic.com/media/e497f2_49a8260192b544989259111f9338b153~mv2.jpg/v1/fill/w_250%2Ch_166%2Cal_c%2Cq_90%2Cenc_auto/e497f2_49a8260192b544989259111f9338b153~mv2.jpg"
+  }
+]

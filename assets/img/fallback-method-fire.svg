@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Biodiversity Data Lab graphic">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#6cc06f"/><stop offset="0.55" stop-color="#0c7a58"/><stop offset="1" stop-color="#063f33"/></linearGradient>
+    <radialGradient id="r" cx="35%" cy="30%" r="70%"><stop offset="0" stop-color="#e7f8e9"/><stop offset="0.45" stop-color="#81c97e"/><stop offset="1" stop-color="#075e49"/></radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#063f33" flood-opacity=".28"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="#f1fbef"/>
+  <rect width="1200" height="800" fill="url(#r)" opacity=".85"/>
+  <rect width="1200" height="800" fill="#082f28"/><radialGradient id="fire" cx="45%" cy="45%" r="65%"><stop offset="0" stop-color="#d9f7cd"/><stop offset=".35" stop-color="#6cc06f"/><stop offset="1" stop-color="#075e49"/></radialGradient><rect width="1200" height="800" fill="url(#fire)"/><g transform="translate(470 165)"><path d="M130 440 C35 320 92 230 172 142 C154 238 250 262 260 352 C345 240 330 120 255 35 C460 185 455 370 330 500 C275 555 185 545 130 440Z" fill="#eaffed" opacity=".9"/></g><text x="68" y="704" font-family="monospace" font-size="26" fill="#eaffed" opacity=".6">prescribed burning · disturbance ecology</text>
+</svg>
