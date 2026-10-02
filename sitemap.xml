@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://www.biodiversity.se/</loc></url>
-  <url><loc>https://www.biodiversity.se/research/</loc></url>
   <url><loc>https://www.biodiversity.se/team/</loc></url>
-  <url><loc>https://www.biodiversity.se/outputs/</loc></url>
-  <url><loc>https://www.biodiversity.se/connect/</loc></url>
+  <url><loc>https://www.biodiversity.se/team/activities/</loc></url>
+  <url><loc>https://www.biodiversity.se/research/</loc></url>
+  <url><loc>https://www.biodiversity.se/research/publications/</loc></url>
+  <url><loc>https://www.biodiversity.se/research/software/</loc></url>
+  <url><loc>https://www.biodiversity.se/research/fieldwork/</loc></url>
+  <url><loc>https://www.biodiversity.se/news/</loc></url>
+  <url><loc>https://www.biodiversity.se/contact/</loc></url>
 </urlset>

@@ -1,12 +1,19 @@
 # Biodiversity Data Lab - Modern Static Site
 
-This folder contains a redesigned static version of the Biodiversity Data Lab webpage. It is organized into fewer top-level tabs:
+This folder contains a redesigned static version of the Biodiversity Data Lab webpage. The top navigation has five tabs, two of them with dropdown sub-pages:
 
-- **Home** - mission, definition of data-driven biodiversity research, team photos, research pillars, lab-life section, and featured work
-- **Research** - projects plus biodiversity measurement methods
-- **Team** - current and previous lab members, plus a lab moments photo strip
-- **Outputs** - news, publications, and gallery content with filters
-- **Connect** - contact form, address, and donation/support information
+- **Home** (`/`) - mission, research pillars, lab life, and featured work
+- **Team** (`/team/`)
+  - **Lab members** (`/team/`) - current and previous lab members
+  - **Activities** (`/team/activities/`) - lab moments and gallery (conferences, workshops, field trips)
+- **Research** (`/research/`) - workflow overview and ongoing projects
+  - **Publications** (`/research/publications/`)
+  - **Software** (`/research/software/`) - BIOSCANN, environmental data pipeline, GitHub
+  - **Fieldwork** (`/research/fieldwork/`) - insect traps, soil sampling, prescribed burning
+- **News** (`/news/`)
+- **Contact** (`/contact/`) - student projects, contact details, and donation/support information
+
+The colour palette is defined as CSS variables at the top of `assets/css/styles.css`: forest `#12654C`, sage `#6A907D`, bark `#6D3D14`, and oxblood `#551B14`.
 
 The site uses plain HTML, CSS, and JavaScript, so Netlify does not need a build step.
 
@@ -27,7 +34,11 @@ Then open `http://localhost:8080` in your browser.
 3. Set **Build command** to blank and **Publish directory** to `.`.
 4. Deploy.
 
-`netlify.toml` and `_redirects` are included. Old paths such as `/projects/`, `/people/`, `/papers/`, and `/donate/` redirect to the redesigned pages.
+`netlify.toml` and `_redirects` are included. Old paths such as `/outputs/`, `/connect/`, `/projects/`, `/people/`, `/papers/`, `/gallery/`, and `/donate/` redirect to the new pages.
+
+## Raw media
+
+Original photos, videos, and other source files live in `../media-source/`, next to this folder rather than inside it, so they are never published. When a file is needed on the site, copy a web-sized version into `assets/img/` or `assets/video/` and reference that copy. Only this folder is deployed.
 
 ## Media localization
 
@@ -43,4 +54,4 @@ After it finishes, commit the new `assets/media/` files and the rewritten HTML.
 
 ## Editing
 
-Content is static and can be edited directly in the HTML files. The visual system lives in `assets/css/styles.css`; interactions such as mobile navigation, scroll reveal, fallback images, and filters live in `assets/js/main.js`.
+Content is static and can be edited directly in the HTML files. The visual system lives in `assets/css/styles.css`; interactions such as mobile navigation, dropdown menus, scroll reveal, fallback images, and filters live in `assets/js/main.js`.
