@@ -250,6 +250,8 @@ h3 { font-size: clamp(1.18rem, 2vw, 1.58rem); }
 .role { color: var(--bark-700) !important; font-weight: 900; margin: .35rem 0; }
 .person-email { color: var(--forest-800); font-weight: 900; text-decoration: none; overflow-wrap: anywhere; }
 .person-email:hover { text-decoration: underline; }
+.secret-link { margin-left: .3rem; color: var(--leaf-500); font-size: .8rem; font-weight: 700; text-decoration: none; opacity: .55; }
+.secret-link:hover { opacity: 1; color: var(--bark-700); }
 .filter-controls { display: flex; flex-wrap: wrap; gap: .45rem; padding: .35rem; border-radius: 999px; background: rgba(255,255,255,.72); box-shadow: inset 0 0 0 1px rgba(11,61,46,.09); }
 .filter-button { border: 0; border-radius: 999px; padding: .72rem 1rem; color: var(--forest-800); background: transparent; cursor: pointer; font-weight: 950; }
 .filter-button.active { background: linear-gradient(135deg, var(--forest-700), var(--forest-900)); color: #fff; box-shadow: 0 10px 24px rgba(18,101,76,.22); }
@@ -582,6 +584,11 @@ body.lightbox-open { overflow: hidden; }
 .hero-mission strong {
   color: var(--forest-900);
 }
+.def-mark { color: var(--bark-700); font-weight: 900; text-decoration: none; margin-left: .05em; }
+.def-mark:hover { color: var(--bark-900); }
+.hero-definition { display: flex; gap: .5rem; max-width: 34rem; margin: 1.6rem 0 0; padding: .8rem 1rem; border-left: 3px solid var(--leaf-500); border-radius: 0 14px 14px 0; background: rgba(106,144,125,.12); color: var(--muted); font-size: .92rem; line-height: 1.55; }
+.hero-definition strong { color: var(--forest-900); }
+.def-star { color: var(--bark-700); font-weight: 900; }
 .photo-mosaic {
   position: relative;
   min-height: 640px;
