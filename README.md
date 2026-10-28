@@ -8,7 +8,8 @@ This folder contains a redesigned static version of the Biodiversity Data Lab we
   - **Activities** (`/team/activities/`) - lab moments and gallery (conferences, workshops, field trips)
 - **Research** (`/research/`) - workflow overview and ongoing projects
   - **Publications** (`/research/publications/`)
-  - **Software** (`/research/software/`) - BIOSCANN, environmental data pipeline, GitHub
+  - **Software** (`/research/software/`) - BIOSCANN, envoi, GitHub
+    - **envoi ↗** (`/envoi`) - external link to the envoi web app
   - **Fieldwork** (`/research/fieldwork/`) - insect traps, soil sampling, prescribed burning
 - **News** (`/news/`)
 - **Contact** (`/contact/`) - student projects, contact details, and donation/support information
@@ -22,7 +23,7 @@ The site uses plain HTML, CSS, and JavaScript, so Netlify does not need a build 
 From this folder, run:
 
 ```bash
-python3 -m http.server 8080
+python3 -m http.server 8080   # Windows: python -m http.server 8080
 ```
 
 Then open `http://localhost:8080` in your browser.
@@ -34,7 +35,7 @@ Then open `http://localhost:8080` in your browser.
 3. Set **Build command** to blank and **Publish directory** to `.`.
 4. Deploy.
 
-`netlify.toml` and `_redirects` are included. Old paths such as `/outputs/`, `/connect/`, `/projects/`, `/people/`, `/papers/`, `/gallery/`, and `/donate/` redirect to the new pages.
+`netlify.toml` and `_redirects` are included. Old paths such as `/outputs/`, `/connect/`, `/projects/`, `/people/`, `/papers/`, `/gallery/`, and `/donate/` redirect to the new pages. `/envoi` redirects (302) to the envoi web app on SciLifeLab Serve (`https://envoi.serve.scilifelab.se/`) and is linked in the menu under Research -> Software.
 
 ## Raw media
 

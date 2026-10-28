@@ -11,4 +11,6 @@
 /software/ /research/software/ 301
 /fieldwork/ /research/fieldwork/ 301
 /donate/ /contact/#support 301
+/envoi https://envoi.serve.scilifelab.se/ 302
+/envoi/ https://envoi.serve.scilifelab.se/ 302
 /* /404.html 404
