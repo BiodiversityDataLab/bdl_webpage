@@ -55,4 +55,4 @@ After it finishes, commit the new `assets/media/` files and the rewritten HTML.
 
 ## Editing
 
-Content is static and can be edited directly in the HTML files. The visual system lives in `assets/css/styles.css`; interactions such as mobile navigation, dropdown menus, scroll reveal, fallback images, and filters live in `assets/js/main.js`.
+Content is static and can be edited directly in the HTML files. After changing `styles.css` or `main.js`, bump the `?v=` date on their links in every HTML file: Netlify tells browsers to cache `/assets/*` for a year, so without a new version visitors keep the old file. The visual system lives in `assets/css/styles.css`; interactions such as mobile navigation, dropdown menus, scroll reveal, fallback images, and filters live in `assets/js/main.js`.
